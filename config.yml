@@ -20,8 +20,8 @@ modules:
         max_parallel: 2
     del_mail:
         match: [{ title: "【勇者福利社】成功獲得抽獎資格通知信" }]
+    del_mail:     
         match: [{ title: "動畫瘋獲獎通知" }]
-        
     logout:
 
     # 以下是寄報告的部分
